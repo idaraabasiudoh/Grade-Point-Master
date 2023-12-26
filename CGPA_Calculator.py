@@ -27,7 +27,7 @@ for i in range(len(grades)):
     credit_sum = credit_sum + credits[i]
 
 
-CGPA = GPA_point_sum / credit_sum
+CGPA = (GPA_point_sum / credit_sum)
 
 
 print("Your current grades are ", grades)
