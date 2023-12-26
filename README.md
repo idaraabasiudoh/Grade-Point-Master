@@ -1,43 +1,29 @@
+**Welcome to Grade Point Master**
 
-# DATA VISUALIZER T-94
-    ~ Date: 04/24/2023
-    ~ Software Name: CGPA Calculator - Version: V1.0.0
-    ~ Contact: Idara-Abasi Udoh, 2nd Year (B.Sc.) - Software Engineering, Carleton University, Ottawa, ON, Canada.
-               ~ idaraemmanueludoh@gmail.com
+This repository contains a Python-powered CGPA calculator that effortlessly processes scores from Excel spreadsheets to calculate your CGPA with precision.
 
-
-# Description
-    Our software allows users to easily evaluate students' CGPA saved in a chosen file.
-
-# Dependencies:
-    Must have the latest version of Python installed, as well as the 'My Grades.csv' file updated with student's grades in specified array. This file must be stored in the same location as executable python program, 'CGPA_Calculator'.
-
-# Installation and Usage:
-    ~ Download the CGPA.zip file from https://1drv.ms/f/s!AlUDSSyG1w2EijuNXXAuz6uaVIRP?e=cRC0y3
-    ~ In the zip file open the My Grades.csv file using MS Excel (Recommended). Fill in student grades as specified in the csv file.
-    ~ Run the CGPA_Calculator.py using any preferred compiler to get results.
-	Access Software_Manual.mp4 using the link below:
-    Idara-Abasi Udoh (2023) 
+**Key Features:**
+1. Automatic CGPA calculation from Excel data
+2. Clear and concise output
 
 
 
-# Credits:
-    Idara-Abasi Udoh
-        Responsiblities: 
-            ~ Problem Definition.
-            ~ Solution Planning.
-            ~ Program Coding.
-            ~ Program Testing.
-            ~ Program Documentation.
-            ~ Program Maintenance.
+**Getting Started:**
+1. Clone this repository to your local machine
+2. Ensure you have Python installed on your system
+3. Install the required libraries: pip install openpyxl
+4. Customize the configuration file (if applicable) with your grading system details.
+5. Place your Excel file containing scores in the designated directory.
+6. Run the main.py (or your chosen script name) file to execute the calculator.
+
+
+**Contributing:**
+
+Feel free to contribute to the project by submitting pull requests or opening issues. Your feedback and suggestions are always welcome!
 
 
 
-
-
-
-
-MIT License
+**MIT License**
 
 Copyright (c) [2023] [Idara-Abasi Emmanuel Udoh]
 
