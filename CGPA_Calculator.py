@@ -26,6 +26,7 @@ for i in range(len(grades)):
     GPA_point_sum = GPA_point_sum + GPA_point
     credit_sum = credit_sum + credits[i]
 
+
 CGPA = GPA_point_sum / credit_sum
 
 
