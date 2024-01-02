@@ -14,7 +14,7 @@ This repository contains a Python-powered CGPA calculator that effortlessly proc
 3. Install the required `openpyxl` library.
 4. Customize the configuration file (if applicable) with your grading system details.
 5. Place your Excel file containing scores in the designated directory.
-6. Run the main.py (or your chosen script name) file to execute the calculator.
+6. Run the `CGPA_Calculator.py` to execute calculator.
 
 
 **Contributing:**
